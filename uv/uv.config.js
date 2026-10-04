@@ -1,6 +1,6 @@
 self.__uv$config = {
   // Add your exact repository name here before /uv/service/
-  prefix: '', 
+  prefix: '/shell-pr0x-official/uv/service/', 
   bare: 'https://bare.benrogo.net/',
   encodeUrl: Ultraviolet.codec.xor.encode,
   decodeUrl: Ultraviolet.codec.xor.decode,
